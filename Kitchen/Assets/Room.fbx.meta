@@ -1,6 +1,6 @@
 fileFormatVersion: 2
-guid: ff59cedd45e24354abaef0a5a13d5a57
-timeCreated: 1464170825
+guid: 67dfb82df5599594ca6ff8b6e857cb5b
+timeCreated: 1464602905
 licenseType: Free
 ModelImporter:
   serializedVersion: 19
@@ -9,7 +9,7 @@ ModelImporter:
     400000: //RootNode
     2300000: //RootNode
     3300000: //RootNode
-    4300000: Ceiling
+    4300000: Front panel
   materials:
     importMaterials: 1
     materialName: 0
